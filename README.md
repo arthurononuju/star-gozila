@@ -1,2 +1,8 @@
 # star-gozila
 arthurgozila first ever
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x1e8DfBeeA489EA5E3488615062da5900176C991E'
+quorum: 1
